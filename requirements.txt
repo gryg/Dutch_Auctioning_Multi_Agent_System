@@ -1,0 +1,12 @@
+# For Gemini API
+google-generativeai
+
+# For loading environment variables (like API keys from .env)
+python-dotenv
+
+# For handling YAML configuration files (game.cfg, logging_conf.yaml, etc.)
+PyYAML
+
+# SciPy was an import in the original student_agent.py stub.
+# Include if it's used by the broader framework or if you plan to use it.
+scipy

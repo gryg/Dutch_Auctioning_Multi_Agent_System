@@ -1,0 +1,9 @@
+2025-05-26 03:52:19,691 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_B'] have accepted construction item structural design at price: 4000.0
+2025-05-26 03:52:52,681 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_E'] have accepted construction item structure building at price: 7000.0
+2025-05-26 03:53:23,031 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_E'] have accepted construction item electrics and plumbing at price: 3200.0
+2025-05-26 03:54:01,426 - environment - INFO - [NOTIFICATION] Companies ['MyCompanyAgent_F'] have accepted construction item interior design at price: 4950.0
+2025-05-26 03:54:01,427 - environment - INFO - [NOTIFICATION] The Auction Phase has finished.
+2025-05-26 03:54:21,790 - environment - INFO - [NOTIFICATION] Construction item structural design assigned to MyCompanyAgent_B!
+2025-05-26 03:54:38,390 - environment - INFO - [NOTIFICATION] Construction item structure building assigned to MyCompanyAgent_E!
+2025-05-26 03:54:51,070 - environment - INFO - [NOTIFICATION] Construction item electrics and plumbing assigned to MyCompanyAgent_E!
+2025-05-26 03:55:05,760 - environment - INFO - [NOTIFICATION] Construction item interior design assigned to MyCompanyAgent_F!
