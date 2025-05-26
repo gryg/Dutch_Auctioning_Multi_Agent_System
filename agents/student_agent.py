@@ -1,18 +1,12 @@
-# Standard library imports
 import json
 import os
 from typing import List, Dict, Any, Optional
 
-# Third-party imports
 from dotenv import load_dotenv
 import google.generativeai as genai
 
 from agents import HouseOwnerAgent, CompanyAgent 
 from communication import NegotiationMessage   
-
-# The following import was in the original student_agent.py stub.
-# It does not seem to be used by MyACMEAgent or MyCompanyAgent directly.
-# from scipy.stats._multivariate import special_ortho_group_frozen # [cite: 91]
 
 
 # --- Load Environment Variables ---

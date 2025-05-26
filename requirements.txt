@@ -10,3 +10,10 @@ PyYAML
 # SciPy was an import in the original student_agent.py stub.
 # Include if it's used by the broader framework or if you plan to use it.
 scipy
+
+langgraph
+langchain-google-genai
+
+python-dotenv
+typing_inspect
+typing_extensions
